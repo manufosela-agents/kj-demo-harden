@@ -1,0 +1,7 @@
+version: 1
+invariants:
+  - id: pr-loc-budget
+    kind: diff-threshold
+    metric: net_lines_added
+    max: 200
+    enforcement: deny
