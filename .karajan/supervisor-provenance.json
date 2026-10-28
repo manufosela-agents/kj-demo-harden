@@ -1,0 +1,73 @@
+{
+  "kj_version": "4.70.1",
+  "generated_at": "2026-10-28T07:46:49.500Z",
+  "generation": {
+    "profile": "standard",
+    "cmds": {},
+    "baseBranch": "main",
+    "globalHooksDir": null
+  },
+  "who": {
+    "gh": "manufosela",
+    "git": "1101670+manufosela@users.noreply.github.com",
+    "grade": "declarada"
+  },
+  "files": [
+    {
+      "file": ".claude/settings.json",
+      "sha256": "13c97d5da2e128d9ad026d00626fee5d4167c38a4095289fcf15ab877e292951"
+    },
+    {
+      "file": ".github/workflows/kj-no-ai-attribution.yml",
+      "sha256": "e01c40dbd0f4a98432a205bacdd54711096572db31ccf28422ac167144121445"
+    },
+    {
+      "file": ".github/workflows/kj-pack-smoke.yml",
+      "sha256": "6974af9424e2a1da7579600b6b67f365a2285056e9cb8dfc8c3618b1265f3407"
+    },
+    {
+      "file": ".github/workflows/kj-policy.yml",
+      "sha256": "97f18471eb0d7151a83817489de3b49cb77eb465ea53c8c433ca954004944ba7"
+    },
+    {
+      "file": ".github/workflows/kj-quality.yml",
+      "sha256": "c5dc01751a3632828bb13e99fa1a7210f683003f8b44d49a44692498011d8d8f"
+    },
+    {
+      "file": ".karajan/hooks/commit-msg",
+      "sha256": "93c58214ef6efce9de47cc695355e13c04b6ed390530e26871fb3d7dc4a16d1d"
+    },
+    {
+      "file": ".karajan/hooks/post-merge",
+      "sha256": "b17b55bc4f0f295e935d75f5a5e1896a025b0f459d130c8c75fb7057f9e88a6d"
+    },
+    {
+      "file": ".karajan/hooks/pre-commit",
+      "sha256": "6c5061969cbe0d30d072b0ee6b805063803bd1f16bd52d1f66ae50a4f71063cd"
+    },
+    {
+      "file": ".karajan/hooks/pre-push",
+      "sha256": "0a46ea80a996d8647303c9d9c72c181b7d331d007dd19493057d5d5332ddd48b"
+    },
+    {
+      "file": ".karajan/hooks/prepare-commit-msg",
+      "sha256": "2360c05e600a560c8e9f36e4aba8dbadf91937c461d8a82f6b994db58198b143"
+    },
+    {
+      "file": ".karajan/policy.yml",
+      "sha256": "d176b02e5d459f9ac924a1d7e337ded89a4e6b8de43a014b62f3fc3bc2a7fb1b"
+    }
+  ],
+  "signature": {
+    "cid": "455f919c0462507a2d0fc0e58b020834",
+    "nonce": "35531ba934d895ddddf8ac4eb5b6f1c8",
+    "project": "kj-demo-harden",
+    "filesHash": "b48a232ce032b3533f346d98db993b34a60a57f8a6bb68da171642b053936b31",
+    "v": 2,
+    "kjVersion": "4.70.1",
+    "issuedMs": 1793173572027,
+    "expiresMs": 1793173632027,
+    "signer": "EgMc2b95g5nUh8e6LDCeLjv7G69cQaszUCIy+3aLpPQ=",
+    "signature": "f3BvDZMQmVaWAY4BhaPeNVn0XZqICr+G7QoV3lvXyZzwE1MsE2uFcLdoLdtw/QiBg7hWhuWmPYEVjd4zuQcGDQ=="
+  }
+}
