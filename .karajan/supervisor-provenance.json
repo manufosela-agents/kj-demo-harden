@@ -1,0 +1,65 @@
+{
+  "kj_version": "4.70.0",
+  "generated_at": "2026-10-28T04:39:34.411Z",
+  "generation": {
+    "profile": "standard",
+    "cmds": {},
+    "baseBranch": "main",
+    "globalHooksDir": "$HOME/.git-hooks"
+  },
+  "who": {
+    "gh": "manufosela",
+    "git": "1101670+manufosela@users.noreply.github.com",
+    "grade": "declarada"
+  },
+  "files": [
+    {
+      "file": ".claude/settings.json",
+      "sha256": "13c97d5da2e128d9ad026d00626fee5d4167c38a4095289fcf15ab877e292951"
+    },
+    {
+      "file": ".github/workflows/kj-no-ai-attribution.yml",
+      "sha256": "e01c40dbd0f4a98432a205bacdd54711096572db31ccf28422ac167144121445"
+    },
+    {
+      "file": ".github/workflows/kj-pack-smoke.yml",
+      "sha256": "6974af9424e2a1da7579600b6b67f365a2285056e9cb8dfc8c3618b1265f3407"
+    },
+    {
+      "file": ".github/workflows/kj-quality.yml",
+      "sha256": "c5dc01751a3632828bb13e99fa1a7210f683003f8b44d49a44692498011d8d8f"
+    },
+    {
+      "file": ".karajan/hooks/commit-msg",
+      "sha256": "7be3ae11b0bcd1029d70009bc1a9e0649695b4db343f8c83654a4936bbd2953e"
+    },
+    {
+      "file": ".karajan/hooks/post-merge",
+      "sha256": "a3dabd83659f5de4427235a8d4347cde72b9f85f1be32d8420fd91be00df7483"
+    },
+    {
+      "file": ".karajan/hooks/pre-commit",
+      "sha256": "44dd646f9fcd6256ee6a4de14347efca26bad3b95dbe70bf79b17b4b21984eb7"
+    },
+    {
+      "file": ".karajan/hooks/pre-push",
+      "sha256": "69939a0062ffea538694d23040ae32aa5686bff87b616cd14a3b3d6ed87cfa22"
+    },
+    {
+      "file": ".karajan/hooks/prepare-commit-msg",
+      "sha256": "4850712b985d9c2470fbaf55f84019ff739370ad3fd0d941aaefcbdebe6537f9"
+    }
+  ],
+  "signature": {
+    "cid": "2e45425e0e926b03d7ccc53a4b654829",
+    "nonce": "99b478ba47f568e1a0cce466e5fff7fa",
+    "project": "kj-demo-harden",
+    "filesHash": "832014f1f78a3672c856da3c6edd65421d7585e21d73062d84a548efb025c4e7",
+    "v": 2,
+    "kjVersion": "4.70.0",
+    "issuedMs": 1793162357625,
+    "expiresMs": 1793162417625,
+    "signer": "EgMc2b95g5nUh8e6LDCeLjv7G69cQaszUCIy+3aLpPQ=",
+    "signature": "V3wmmJdJBSOmtC+lPFXKbz6j1R8qQmIkig/rqP5WNFikBEISwJQH6dvKKQ5Lr6wnUa9s+9t1hrAyX9/Dmfm5Bg=="
+  }
+}
