@@ -1,0 +1,24 @@
+{
+  "name": "kj-demo-harden",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manufosela-agents/kj-demo-harden.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manufosela-agents/kj-demo-harden/issues"
+  },
+  "homepage": "https://github.com/manufosela-agents/kj-demo-harden#readme",
+  "type": "module",
+  "devDependencies": {
+    "vitest": "^5.0.5"
+  }
+}
