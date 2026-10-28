@@ -1,1 +1,8 @@
 node_modules/
+.karajan/identity.local.yml
+
+# Karajan Code
+.kj/
+.agent/
+.scannerwork/
+.reviews/
