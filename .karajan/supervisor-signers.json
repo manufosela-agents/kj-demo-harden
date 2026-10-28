@@ -1,0 +1,25 @@
+{
+  "signers": [
+    {
+      "publicKey": "EgMc2b95g5nUh8e6LDCeLjv7G69cQaszUCIy+3aLpPQ=",
+      "label": "movil-principal",
+      "enrolledAt": "2026-10-28T05:25:36.453Z",
+      "admission": {
+        "cid": "b336d276b4abdec961329a19475503df",
+        "nonce": "242d5716012c3538706c9b38f62b5cfa",
+        "project": "kj-demo-harden",
+        "filesHash": "9b196b06b2afb7836698ac1e22c8701d4e47140f5836830458ce85d9af9a0ae1",
+        "v": 2,
+        "kjVersion": "4.70.0",
+        "issuedMs": 1793165124640,
+        "expiresMs": 1793165184640,
+        "signer": "EgMc2b95g5nUh8e6LDCeLjv7G69cQaszUCIy+3aLpPQ=",
+        "signature": "NslXeqYe1TiciK44n7bny6On1vQk6n3Rb4WzoXxS/IZmjVSuivwFVO0hDQhLLBoiVWZrhO/8C3hhifCHoOGdAw=="
+      }
+    }
+  ],
+  "recovery": {
+    "fingerprint": "077fa0947d26f7efdc51ef72c3135dfe54d880a2b7a41eecbc13e9f81f13654a",
+    "issuedAt": "2026-10-28T05:25:36.453Z"
+  }
+}
