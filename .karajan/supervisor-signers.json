@@ -1,0 +1,13 @@
+{
+  "signers": [
+    {
+      "publicKey": "EgMc2b95g5nUh8e6LDCeLjv7G69cQaszUCIy+3aLpPQ=",
+      "label": "movil-principal",
+      "enrolledAt": "2026-10-28T07:42:05.630Z"
+    }
+  ],
+  "recovery": {
+    "fingerprint": "1f82b06040cb642fd3124831ab9c890ce56077b46d3a04f06a123dfcfc949250",
+    "issuedAt": "2026-10-28T07:42:05.630Z"
+  }
+}
